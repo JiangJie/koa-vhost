@@ -4,13 +4,13 @@ A vhost middleware for koa application.
 Forked from [koa-vhost](https://github.com/Treri/koa-vhost)
 # Install
 ```javascript
-npm i vhost-koa
+npm i vhost-koa --save
 ```
 or install from github
 ```javascript
-npm i JiangJie/koa-vhost
+npm i JiangJie/koa-vhost --save
 ```
-# example
+# Example
 ```javascript
 let koa = require('koa');
 let mount = require('koa-mount');
