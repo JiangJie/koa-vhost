@@ -1,6 +1,6 @@
 {
   "name": "vhost-koa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A koa middleware for koa appication.",
   "main": "index.js",
   "dependencies": {
