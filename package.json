@@ -20,7 +20,7 @@
     "vhost",
     "middleware"
   ],
-  "author": "jiang115jie@gmail.com",
+  "author": "JarvisJiang <jiang115jie@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JiangJie/koa-vhost/issues"

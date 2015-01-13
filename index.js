@@ -1,7 +1,7 @@
 'use strict';
 
 var assert = require('assert');
-var debug = require('debug')('koa-vhost');
+var debug = require('debug')('koa:vhost');
 var compose = require('koa-compose');
 
 function isRegExp(obj) {
